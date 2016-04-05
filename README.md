@@ -22,7 +22,8 @@ Drop your CSV logs inside `csv-logs/`
 ```bash
 $ npm run parse
 ```
-[[https://github.com/mikatalk/trail-viz/blob/master/docs/parse-cmd.png|alt=parse-cmd]]
+![parse-cmd](https://github.com/mikatalk/trail-viz/blob/master/docs/parse-cmd.png)
+
 Copy the the output from the command line 
 edit the tools/parser.js as needed:
 run parser again. 
