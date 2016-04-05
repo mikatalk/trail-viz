@@ -1,3 +1,7 @@
+csv-logs/*
+dist
+build
+
 # Logs
 logs
 *.log
